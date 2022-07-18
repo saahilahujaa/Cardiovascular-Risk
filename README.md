@@ -102,8 +102,10 @@ We have implemented a experimental neural network, however the results were ambi
 **Finally, we can conclude that Random forest and XGB classifier might provide the best results for this particular problem, moreever we can optimise these models using Grid Search CV(cross validation) and hyperparameter tuning to get better results.**
 
 ## Contributors
-Name(Github)	Email
-Arvind Krishna	killerdude.arvind@gmail.com
-Keshav Sharma	keshav1506sharma@gmail.com
-Jayesh Panchal	jaypan290497@gmail.com
-Sahil Ahuja	s.ahuja38@gmail.com
+| Name(Github) | Email |
+| ------------ | ----- |
+| Sahil Ahuja |	s.ahuja38@gmail.com |
+| Arvind Krishna |	killerdude.arvind@gmail.com |
+| Keshav Sharma |	keshav1506sharma@gmail.com |
+| Jayesh Panchal	| jaypan290497@gmail.com |
+
