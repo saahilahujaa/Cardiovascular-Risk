@@ -18,14 +18,14 @@ The dataset is available at kaggle.
 
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The dataset provides the patient's information and health stats. It includes over 4,000 records and 15 attributes.
 
-**This Dataset consists of following Attributes:**
+**This Dataset consists of following Attributes:** *
 
-id: Patient identification number.
+  *id: Patient identification number.
 
-**Demographic:**
+**Demographic:***
 
-Sex: male or female("M" or "F")
-Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
+  *Sex: male or female("M" or "F")
+  *Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
 
 **Behavioral**
 
